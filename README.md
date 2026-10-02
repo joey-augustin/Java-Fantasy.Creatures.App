@@ -23,9 +23,9 @@ I built a console-based Java application, _Fantasy Creature Management System_, 
   I wrote JUnit 5 tests that cover adding, removing, and filtering creatures, each species' ability, and the save and load round trip. I learned how `@BeforeEach` sets up the same starting data for every test.
 
 ## Running the Project
-1. Clone the repository: `git clone [repo URL]`
+1. Clone the repository: `git clone https://github.com/joey-augustin/Java-Fantasy.Creatures.App/tree/main`
 2. Build with Maven: `mvn clean compile`
-3. Run `FantasyCreatureSystem` from your IDE, or use `[run command]`
+3. Run `FantasyCreatureSystem` from your IDE
 4. Run the tests with `mvn test` (note: the file handler tests overwrite `creatures.txt`)
 
 ## Technologies Used
